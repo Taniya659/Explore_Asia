@@ -35,7 +35,7 @@ In order to view this project locally, you need to make sure you clone this repo
 Installation
 Clone the repository
 
-git clone https://github.com/tlgadrkn/rest-countries-react.git
+git clone https://github.com/Taniya659/Explore_Asia.git
 Navigate to repository folder
 
 cd rest-countries-react
